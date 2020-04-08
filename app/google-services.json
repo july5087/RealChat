@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "293483976182",
+    "firebase_url": "https://realchat-7fffa.firebaseio.com",
+    "project_id": "realchat-7fffa",
+    "storage_bucket": "realchat-7fffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293483976182:android:2f2f55c1dd84c4f09723d7",
+        "android_client_info": {
+          "package_name": "com.joohylee.realchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293483976182-9njrr3qpqj25hrs5p0610f6u0tdioluf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpaaKgT8IUoSTnhy2KIxqd_6g3JuNZvDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293483976182-9njrr3qpqj25hrs5p0610f6u0tdioluf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
